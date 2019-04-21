@@ -1,3 +1,5 @@
+package repository_maktab25_HW6_3.src;
+
 public class DemoTurners {
 
     public static void main(String[] args) {
